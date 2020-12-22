@@ -1,0 +1,225 @@
+2020-12-22 23:31:56.735516: 
+
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0010366439819335938
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.00010366439819335938; Std: 0.00032781561056165957
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.02020-12-22 23:34:25.809792: 
+
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.02020-12-22 23:38:46.138649: 
+
+ Experiment 1:0.0009617805480957031
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 9.617805480957031e-05; Std: 0.0003041417141227542
+ Experiment 1:0.0009999275207519531
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 9.999275207519531e-05; Std: 0.0003162048460661454
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0009627342224121094
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 9.627342224121094e-05; Std: 0.0003044432924213389
+ Experiment 1:0.0010004043579101562
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.00010004043579101563; Std: 0.00031635563521543792020-12-22 23:39:44.126287: 
+
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0009632110595703125
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 9.632110595703125e-05; Std: 0.0003045940815706313
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
+ Experiment 1:0.0
+ Experiment 2:0.0
+ Experiment 3:0.0
+ Experiment 4:0.0
+ Experiment 5:0.0
+ Experiment 6:0.0
+ Experiment 7:0.0
+ Experiment 8:0.0
+ Experiment 9:0.0
+ Experiment 10:0.0
+ Time mean: 0.0; Std: 0.0
